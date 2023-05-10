@@ -1,8 +1,8 @@
 ---
-title: Final project 
-data: 2023-02-08 12:00:00 -500
-categories: [gdpc,disaster]
-tags: [socialdata]
+title: Prufa
+date: 2023-05-08 12:00:00 -5000
+categories: [Prufa, SUB_Prufa]
+tags: [Prufa]     # TAG names should always be lowercase
 ---
 
 # Prufa 
