@@ -1,8 +1,8 @@
 ---
 title: Natural disasters, Climate change and Economic development
 date: 2023-05-01 12:00:00 -5000
-categories: [natural disasters,economic development]
-tags: [matural disasters,climate change,economic development]     # TAG names should always be lowercase
+categories: [naturaldisasters,economicdevelopment]
+tags: [maturaldisasters,climatechange,economicdevelopment]     # TAG names should always be lowercase
 ---
 
 
