@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\_data",
+    "\\_plugins",
+    "\\_posts",
+    "\\_tabs"
   ],
-  "SelectedNode": "\\C:\\Users\\asmun\\Source\\Repos\\AsiJohannsson\\Asijohannsson.github.io",
   "PreviewInSolutionExplorer": false
 }
