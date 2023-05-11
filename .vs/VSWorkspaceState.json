@@ -1,12 +1,15 @@
 {
   "ExpandedNodes": [
     "",
+    "\\.github",
+    "\\.github\\workflows",
     "\\assets",
     "\\_data",
+    "\\_includes",
     "\\_plugins",
     "\\_posts",
     "\\_tabs"
   ],
-  "SelectedNode": "\\_config.yml",
+  "SelectedNode": "\\_posts\\2023-05-01-Natural Disasters.md",
   "PreviewInSolutionExplorer": false
 }
