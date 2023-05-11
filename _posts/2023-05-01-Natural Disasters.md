@@ -95,7 +95,8 @@ human populations. Understanding the causes, patterns, and effects of droughts a
 for developing effective strategies to mitigate their impacts and enhance resilience. Therefor a look at the 
 relationship between economic and social indicators and effect of droughts and heatwaves of countries. 
 To see if there are some correlation and clustering between these factors. 
-Þetta er sma prufa
+
+Virkar þetta
 
 
 
