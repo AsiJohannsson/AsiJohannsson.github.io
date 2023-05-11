@@ -1,8 +1,9 @@
 ---
 title: Natural disasters, Climate change and Economic development
 date: 2023-05-01 12:00:00 -5000
-categories: [naturaldisasters,economicdevelopment]
-tags: [maturaldisasters,climatechange,economicdevelopment]     # TAG names should always be lowercase
+categories: [natural disasters,economic development]
+tags: [matural disasters,climate change,economic development]     # TAG names should always be lowercase
+authors: [<author1_id>, <author2_id>] 
 ---
 
 
@@ -24,7 +25,7 @@ existing inequalities, hitting countries with limited economic resources the har
 awareness of the sobering connection between economic inequality, climate change, and these calamities' 
 toll on human life. 
 
-# Disparities in Natural Disaster Impacts 
+## Disparities in Natural Disaster Impacts 
 
 When faced with natural disasters, the impacts are often disproportionately felt. The worst hit by 
 intensifying natural catastrophes are frequently those nations with less developed economies and lower 
@@ -35,7 +36,8 @@ The scatter plot below visualizes the relationship between the magnitude of peop
 disaster and a country's GDP per capita where the disasters occur. The plot also shows how the relationship
 has developed in recent years, together with the number of inhabitants in the countries and more information.
 
-[Scatter plot with affected people and GDP per Capita here] 
+
+{% include scatter_gdpc.html %}
 
 Pre-event vulnerability and post-event response explain the difference in disaster outcomes between 
 high-income and low-income groups. Natural disasters can occur and have adverse effects depending on 
@@ -53,7 +55,7 @@ government are also crucial.
 
 [Better connection to drought and heatwaves]
 
-# Drought and heatwaves
+## Drought and heatwaves
 
 [talk about why we choose Drought and heatwaves]
 
@@ -75,7 +77,7 @@ likelihood of drought or lengthening existing droughts. In the last ten years, f
 cyclones, heat waves, and severe storms have been responsible for between 80 and 90% of all documented 
 disasters caused by natural hazards.
 
-## Heatwaves
+### Heatwaves
 
 Heatwaves often have variant definitions in different countries. The UK met office defines a heatwave as 
 "an extended period of hot weather relative to the expected conditions of the area at that time of year, 
