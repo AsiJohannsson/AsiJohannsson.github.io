@@ -79,9 +79,9 @@ disasters caused by natural hazards.
 
 Heatwaves often have variant definitions in different countries. The UK met office defines a heatwave as 
 "an extended period of hot weather relative to the expected conditions of the area at that time of year, 
-which may be accompanied by high humidity"  [ÁJ1], while the US national weather service defines heatwaves 
+which may be accompanied by high humidity" (), while the US national weather service defines heatwaves 
 as "a period of abnormally hot weather generally lasting more than two days. Heat waves can occur with or 
-without high humidity [ÁJ2]". Most weather and meteorological institutions agree that heatwaves are prolonged 
+without high humidity" (). Most weather and meteorological institutions agree that heatwaves are prolonged 
 periods of unusually high temperatures, often accompanied by excessive heat and humidity. These events pose 
 significant risks to human health, particularly for vulnerable populations such as older people, young 
 children, and those with pre-existing medical conditions. Heat-related illnesses, heat strokes, and even 
