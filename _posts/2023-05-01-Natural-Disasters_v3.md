@@ -55,7 +55,7 @@ damages, income is not the only significant indicator of progress. Instead, more
 indicators like increasing levels of education, openness, a robust financial sector, and a smaller 
 government are also crucial. For example.
 
-{% income_1_of_the_second_20.html %}
+{% include income_1_of_the_second_20.html %}
 
 In this scaterplot it is visible that the number of poeple affected by droughts and heatwaves is increasing non linearly 
 in to the income the richest fifth of the popuplation 
