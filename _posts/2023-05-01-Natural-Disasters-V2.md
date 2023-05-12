@@ -59,7 +59,7 @@ government are also crucial. For example.
 In this scaterplot it is visible that the number of poeple affected by droughts and heatwaves is increasing non linearly 
 in to the income the richest fifth of the popuplation 
 
-{% include income_2_of_the_second_20%.html %}
+{% include income_2_of_the_second_20.html %}
 
 Also we can see that when choosing another fifth of the population  that there is a positive correlation. Therefore, the income is very significant. 
 There fore it seems that inequality is certainly a factor that make poeple more affected to droughts. 
