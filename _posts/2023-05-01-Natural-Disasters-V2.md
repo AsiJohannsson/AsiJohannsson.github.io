@@ -67,7 +67,8 @@ There fore it seems that inequality is certainly a factor that make poeple more 
 
 The reason that we have chosen to check about is that the poeple that are are affected from droughts are increasing by decade. as shown in the following graph.
 Moerover. Droughts and riverine floosds are the natural disasters that affect more the population and the last decade less poeple were affected from riverine floods. 
-{% Affected_interactive_barplot.html %}
+{% include Affected_interactive_barplot.html %}
+
 ### Drought 
 
 The world health organization defines Drought as "a prolonged dry period in the natural climate cycle that 
